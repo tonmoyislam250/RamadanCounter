@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_blue">#0088CC</color>
+    <color name="primary_dark_blue">#0077B5</color>
+    <color name="background_soft">#F4F4F5</color>
+    <color name="card_background">#FFFFFF</color>
+    <color name="text_primary">#000000</color>
+    <color name="text_secondary">#707579</color>
+    <color name="countdown_red">#E53935</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="divider">#DFE1E5</color>
+
+    <!-- Legacy names to keep compatibility with existing layout code if not updated -->
+    <color name="primary_green">@color/primary_blue</color>
+</resources>
