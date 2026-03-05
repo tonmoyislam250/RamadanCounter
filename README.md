@@ -2,7 +2,7 @@
 
 Roza Rayan is a modern, lightweight Android application designed to help users track Ramadan 2026 (1447 AH) timings across all 64 districts of Bangladesh.
 
-## Features
+## Features as of Now
 
 - **Real-time Countdown**: Live countdown to the next Sehri or Iftar event.
 - **District-wise Timings**: Supports all 8 divisions and 64 districts of Bangladesh.
