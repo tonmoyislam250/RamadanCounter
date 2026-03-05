@@ -21,7 +21,7 @@ Roza Rayan is a modern, lightweight Android application designed to help users t
     - `androidx.core:core-splashscreen` for modern startup transitions.
     - `com.google.android.material:material` for high-quality UI components.
 
-## How It Works
+## How It Works 
 
 The app reads division-specific CSV files from the `assets` folder. When a user selects their Division and District, the app parses the relevant data, calculates the remaining time based on the system clock, and updates the UI every second. It intelligently handles the transition between Sehri and Iftar, as well as the transition to the next day's Sehri after Iftar is complete.
 
